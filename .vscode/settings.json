@@ -1,37 +1,5 @@
 {
-    "cSpell.words": [
-      "Kabaddi",
-      "Namaste",
-      "Svgs",
-      "webp"
-    ],
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": "explicit",
-      "source.organizeImports": "explicit"
-    },
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
-    "prettier.requireConfig": true,
-    "[dotenv]": {
-      "editor.defaultFormatter": "foxundermoon.shell-format"
-    },
-    "[typescriptreact]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[properties]": {
-      "editor.defaultFormatter": "foxundermoon.shell-format"
-    },
-    "[shellscript]": {
-      "editor.defaultFormatter": "foxundermoon.shell-format"
-    },
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[svg]": {
-      "editor.defaultFormatter": "jock.svg"
-    },
-    "[ignore]": {
-      "editor.defaultFormatter": "foxundermoon.shell-format"
-    }
-  }
-  
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.requireConfig": true,
+  "editor.formatOnSave": true
+}
